@@ -1,4 +1,4 @@
-HAMZA CAN ALTINTOP-1220505072
+HAMZA CAN ALTINTOP-1220505072 <br>
 **Proje Açıklaması:** <br>
 
 Bu Java projesi, uml sınıf diyagramının yapısına uyularak bina, daire, evSahibi ve kiracıları modelleyen bir yönetim sistemi tasarlamak üzere oluşturulmuştur. <br>
